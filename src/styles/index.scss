@@ -1,5 +1,28 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.row{
+    background: black;  
+    text-align: center;
+}
+div{
+   background: rgba($color: #161616, $alpha: 1.0);   
+   margin: auto;
+   text-align: center;
+   color: white;
+   padding: 0;
+   text-align:center;
+   font-size: 60px; 
+}
+
+.contador1, .far{
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 25px;
+    width: 140px;
+    height: 155px;
+    text-align: center;
+}
+
 /* 
 
     You can write your own styles here...
